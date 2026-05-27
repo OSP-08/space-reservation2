@@ -79,4 +79,5 @@ logging:
     name: logs/application.log
 
 server:
-  port: ${SERVER_PORT:8080}
+  port: ${PORT:8080}
+
