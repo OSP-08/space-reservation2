@@ -1,7 +1,7 @@
 <<<<<<< HEAD
 # 🏢 Space Reservation System — Part C: BE Infra
 
-> **담당**: C (진딘동)
+> **담당**: C (쩐딘뚱)
 > **역할**: JWT 인증 · Google Drive 백업 · Docker · CI/CD · 서버 모니터링
 
 ---
